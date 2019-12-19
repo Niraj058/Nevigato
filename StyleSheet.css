@@ -1,0 +1,11 @@
+﻿body {
+    background-image: url(111.jpg), url(2.gif), url(3.jpg) ,url(439191,jpg);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+}
+}
+label {
+    font-size:100px;
+    float:right;
+    width:100px;
+}
